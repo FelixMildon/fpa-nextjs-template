@@ -1,0 +1,48 @@
+
+[
+  {
+    "id": "1",
+    "name": "Super Oven 3000",
+    "slug": "super-oven-3000",
+    "category": "cooking",
+    "subcategory": "ovens",
+    "description": "This is a super oven that can cook anything.",
+    "price": 500
+  },
+  {
+    "id": "2",
+    "name": "Mega Oven 2000",
+    "slug": "mega-oven-2000",
+    "category": "cooking",
+    "subcategory": "ovens",
+    "description": "This is a mega oven with lots of features.",
+    "price": 600
+  },
+  {
+    "id": "3",
+    "name": "Ultra Oven 1000",
+    "slug": "ultra-oven-1000",
+    "category": "cooking",
+    "subcategory": "ovens",
+    "description": "This is an ultra oven for professional chefs.",
+    "price": 700
+  },
+  {
+    "id": "4",
+    "name": "Hyper Oven 500",
+    "slug": "hyper-oven-500",
+    "category": "cooking",
+    "subcategory": "ovens",
+    "description": "This is a hyper oven for quick cooking.",
+    "price": 800
+  },
+  {
+    "id": "5",
+    "name": "Turbo Oven 250",
+    "slug": "turbo-oven-250",
+    "category": "cooking",
+    "subcategory": "ovens",
+    "description": "This is a turbo oven for energy-efficient cooking.",
+    "price": 900
+  }
+]
